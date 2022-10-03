@@ -5,7 +5,7 @@ object Versions {
 
     const val coreKtxVersion = "1.7.0"
     const val appcompatVersion = "1.4.2"
-    const val materialVersion = "1.4.0"
+    const val materialVersion = "1.5.0"
 
     const val lifecycleVersion = "2.3.1"
     const val savestateVersion = "2.5.1"

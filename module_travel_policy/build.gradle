@@ -48,6 +48,7 @@ android {
             }
         }
     }
+    namespace 'com.example.policy'
 }
 
 dependencies {
