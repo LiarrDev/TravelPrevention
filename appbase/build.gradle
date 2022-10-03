@@ -48,6 +48,11 @@ android {
             }
         }
     }
+
+    viewBinding {
+        enabled = true
+    }
+
     namespace 'com.example.appbase'
 }
 
